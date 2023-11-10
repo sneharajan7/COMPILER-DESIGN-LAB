@@ -10,6 +10,7 @@ Prerequisite: A sound knowledge in C programming, Data Structures, Formal langua
 Automata Theory and Compiler design.
 
 Course Outcomes: After the completion of the course the student will be able to
+
 CO 1 
 Implement lexical analyzer using the tool LEX. (Cognitive Knowledge Level:
 Apply)
