@@ -10,15 +10,21 @@ Prerequisite: A sound knowledge in C programming, Data Structures, Formal langua
 Automata Theory and Compiler design.
 
 Course Outcomes: After the completion of the course the student will be able to
-CO 1 Implement lexical analyzer using the tool LEX. (Cognitive Knowledge Level:
+CO 1 
+Implement lexical analyzer using the tool LEX. (Cognitive Knowledge Level:
 Apply)
-CO 2 Implement Syntax analyzer using the tool YACC. (Cognitive Knowledge Level:
+CO 2 
+Implement Syntax analyzer using the tool YACC. (Cognitive Knowledge Level:
 Apply)
-CO 3 Design NFA and DFA for a problem and write programs to perform operations on it.
+CO 3 
+Design NFA and DFA for a problem and write programs to perform operations on it.
 (Cognitive Knowledge Level: Apply)
-CO 4 Design and Implement Top-Down parsers. (Cognitive Knowledge Level: Apply)
-CO 5 Design and Implement Bottom-Up parsers. (Cognitive Knowledge Level: Apply)
-CO 6 Implement intermediate code for expressions. (Cognitive Knowledge Level: Apply)
+CO 4 
+Design and Implement Top-Down parsers. (Cognitive Knowledge Level: Apply)
+CO 5 
+Design and Implement Bottom-Up parsers. (Cognitive Knowledge Level: Apply)
+CO 6 
+Implement intermediate code for expressions. (Cognitive Knowledge Level: Apply)
 
 SYLLABUS
 1. Implementation of lexical analyzer using the tool LEX.
